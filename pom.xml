@@ -27,7 +27,7 @@
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <mapper.version>4.0.0</mapper.version>
+        <mapper.version>5.0.1</mapper.version>
         <mybatisGenerator.version>1.3.7</mybatisGenerator.version>
         <mysql.version>5.1.47</mysql.version>
         <springboot.version>2.1.7.RELEASE</springboot.version>
